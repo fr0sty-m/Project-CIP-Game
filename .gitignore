@@ -1,3 +1,6 @@
 # Build outputs
 /build/
 /dist/
+
+# Dev Files
+.idx

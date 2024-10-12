@@ -5,4 +5,4 @@ mkdir build/
 cd build/
 cmake ..
 cmake --build .
-./game/test_game
+./game/game
